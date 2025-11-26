@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.14",
   "update_url": "https://raw.githubusercontent.com/asalcom1956-prog/whatsapp-shortcuts-updates/main/build.zip",
-  "changes": "Initial release"
+  "changes": "Automatic update generation"
 }
